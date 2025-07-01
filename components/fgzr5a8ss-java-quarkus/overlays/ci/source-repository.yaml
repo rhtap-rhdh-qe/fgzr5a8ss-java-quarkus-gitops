@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fgzr5a8ss-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fgzr5a8ss-java-quarkus
